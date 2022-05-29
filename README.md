@@ -1,1 +1,1 @@
-# linux_terminal
+# Linux_terminal practice
